@@ -1,8 +1,8 @@
  Hi, I’m @Loxenay
 
  About me:
-  -Italian
-  -16 yo
+  - Italian
+  - 16 yo
 
  Currently learning:
   - C++
