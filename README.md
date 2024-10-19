@@ -1,13 +1,14 @@
  Hi, I’m @Loxenay
 
- -Italian
- -16 yo
+ About me:
+  -Italian
+  -16 yo
 
  Currently learning:
   - C++
   - python
 
-  interested in:
+ interested in:
   - Machine Learning
   - Game Development
     
